@@ -6,7 +6,7 @@ import Card from "../UI/Card";
 
 function ExpendItems(props) {
   const [title, setTitle] = useState(props.title);
-
+  console.log("ExpenseItem evaluated by React");
   // let title = props.title;
 
   const handlerClicker = () => {
