@@ -22,6 +22,7 @@ function Expense({ items }) {
         {items.map((item) => {
           return (
             <ExpendItems
+              key={item.title}
               title={item.title}
               amount={item.amount}
               date={item.date}
