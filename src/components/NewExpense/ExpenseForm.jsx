@@ -40,7 +40,7 @@ function ExpenseForm({ onSaveExpenseData }) {
     const expenseData = {
       title: entryTitle,
       amount: entryAmount,
-      date: new Date(entryDate).toLocaleDateString(),
+      date: new Date(entryDate),
     };
     // console.log(expenseData);
     onSaveExpenseData(expenseData);
