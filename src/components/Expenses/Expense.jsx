@@ -38,52 +38,6 @@ function Expense({ items }) {
         />
 
         {expensesContent}
-        {/* {filteredExpenses.length === 0 && <p>No expense found.</p>} */}
-        {/* ou */}
-        {/* {filteredExpenses.length < 0 ? (
-          <p>No expense found.</p>
-        ) : (
-          filteredExpenses.map((item) => (
-            <ExpendItems
-              key={item.id}
-              title={item.title}
-              amount={item.amount}
-              date={item.date}
-            />
-          ))
-        )} */}
-
-        {/* {filteredExpenses.map((item) => {
-          return (
-            <ExpendItems
-              key={item.id}
-              title={item.title}
-              amount={item.amount}
-              date={item.date}
-            />
-          );
-        })} */}
-
-        {/* <ExpendItems
-          title={props.items[0].title}
-          amount={props.items[0].amount}
-          date={props.items[0].date}
-        />
-        <ExpendItems
-          title={props.items[1].title}
-          amount={props.items[1].amount}
-          date={props.items[1].date}
-        />
-        <ExpendItems
-          title={props.items[2].title}
-          amount={props.items[2].amount}
-          date={props.items[2].date}
-        />
-        <ExpendItems
-          title={props.items[3].title}
-          amount={props.items[3].amount}
-          date={props.items[3].date}
-        /> */}
       </Card>
     </div>
   );
