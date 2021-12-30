@@ -2,18 +2,18 @@ import Chart from "../Chart/Chart";
 
 function ExpensesChart({ expenses }) {
   const chartDataPoints = [
-    { label: "Janvier", value: 0 },
-    { label: "Fevrier", value: 0 },
-    { label: "Mars", value: 0 },
-    { label: "Avril", value: 0 },
-    { label: "Mai", value: 0 },
-    { label: "Juin", value: 0 },
-    { label: "Juillet", value: 0 },
-    { label: "Aout", value: 0 },
-    { label: "Septembre", value: 0 },
-    { label: "Octobre", value: 0 },
-    { label: "Novembre", value: 0 },
-    { label: "Décembre", value: 0 },
+    { label: "Jan", value: 0 },
+    { label: "Fev", value: 0 },
+    { label: "Mar", value: 0 },
+    { label: "Avr", value: 0 },
+    { label: "May", value: 0 },
+    { label: "Jun", value: 0 },
+    { label: "Jul", value: 0 },
+    { label: "Aug", value: 0 },
+    { label: "Sep", value: 0 },
+    { label: "Oct", value: 0 },
+    { label: "Nov", value: 0 },
+    { label: "Dec", value: 0 },
   ];
 
   for (const expense of expenses) {
