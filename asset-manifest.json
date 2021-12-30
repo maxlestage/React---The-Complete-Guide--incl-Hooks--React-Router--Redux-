@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/React---The-Complete-Guide--incl-Hooks--React-Router--Redux-/static/css/main.177fcb0d.chunk.css",
-    "main.js": "/React---The-Complete-Guide--incl-Hooks--React-Router--Redux-/static/js/main.28eafc70.chunk.js",
-    "main.js.map": "/React---The-Complete-Guide--incl-Hooks--React-Router--Redux-/static/js/main.28eafc70.chunk.js.map",
+    "main.css": "/React---The-Complete-Guide--incl-Hooks--React-Router--Redux-/static/css/main.b3dba9ff.chunk.css",
+    "main.js": "/React---The-Complete-Guide--incl-Hooks--React-Router--Redux-/static/js/main.f5bdcb25.chunk.js",
+    "main.js.map": "/React---The-Complete-Guide--incl-Hooks--React-Router--Redux-/static/js/main.f5bdcb25.chunk.js.map",
     "runtime-main.js": "/React---The-Complete-Guide--incl-Hooks--React-Router--Redux-/static/js/runtime-main.7d0a9028.js",
     "runtime-main.js.map": "/React---The-Complete-Guide--incl-Hooks--React-Router--Redux-/static/js/runtime-main.7d0a9028.js.map",
     "static/js/2.deef5269.chunk.js": "/React---The-Complete-Guide--incl-Hooks--React-Router--Redux-/static/js/2.deef5269.chunk.js",
     "static/js/2.deef5269.chunk.js.map": "/React---The-Complete-Guide--incl-Hooks--React-Router--Redux-/static/js/2.deef5269.chunk.js.map",
     "index.html": "/React---The-Complete-Guide--incl-Hooks--React-Router--Redux-/index.html",
-    "static/css/main.177fcb0d.chunk.css.map": "/React---The-Complete-Guide--incl-Hooks--React-Router--Redux-/static/css/main.177fcb0d.chunk.css.map",
+    "static/css/main.b3dba9ff.chunk.css.map": "/React---The-Complete-Guide--incl-Hooks--React-Router--Redux-/static/css/main.b3dba9ff.chunk.css.map",
     "static/js/2.deef5269.chunk.js.LICENSE.txt": "/React---The-Complete-Guide--incl-Hooks--React-Router--Redux-/static/js/2.deef5269.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7d0a9028.js",
     "static/js/2.deef5269.chunk.js",
-    "static/css/main.177fcb0d.chunk.css",
-    "static/js/main.28eafc70.chunk.js"
+    "static/css/main.b3dba9ff.chunk.css",
+    "static/js/main.f5bdcb25.chunk.js"
   ]
 }
